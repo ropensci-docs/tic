@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "ee53e9557d67e67873482271bf586591a8a6fd8c",
+    "author": "pat-s <patrick.schratz@gmail.com>",
+    "time": "2021-07-14 09:28:21",
+    "files": 7,
+    "merge": false,
+    "message": "update lifecycle badges\n"
+  },
+  "remote": "https://github.com/ropensci/tic",
+  "pkg": "tic"
+}
