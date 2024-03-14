@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "1110378bd8f39ae4bc2e94174a4a47ffda9d3dc5",
+    "author": "pat-s <patrick.schratz@gmail.com>",
+    "time": "2023-12-15 11:02:14",
+    "files": 3,
+    "merge": false,
+    "message": "fix tests\n"
+  },
+  "repo": "https://github.com/ropensci/tic",
+  "pkg": "tic"
+}
