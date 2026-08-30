@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "14ca9a5ecf7771b8151e681c108fd9992a813858",
+    "author": "Eli Miller <elimillera@gmail.com>",
+    "time": "2025-02-09T17:54:07Z",
+    "files": 9,
+    "merge": true,
+    "message": "Merge pull request #340 from ropensci/release_0.14.1\n\nRelease 0.14.1"
+  },
+  "repo": "https://github.com/ropensci/tic",
+  "pkg": "tic",
+  "time": "2026-08-30T07:39:11Z"
+}
